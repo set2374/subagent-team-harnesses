@@ -17,6 +17,13 @@ spin up durable specialist teams without re-briefing everyone from scratch.
 - Not a replacement for your product architecture
 - Not a code framework you must adopt wholesale
 
+## License and attribution
+
+This repository is MIT licensed. It is original harness and documentation work,
+but it borrows ideas from the open-source agent-framework ecosystem, especially
+VoltAgent's public examples and workflow patterns. See
+[NOTICE.md](C:/Users/set23/OneDrive%20-%20turmanlegal.com/AI%20Knowledge%20Files/subagent-team-harnesses/NOTICE.md).
+
 ## Initial team included
 
 `frontend-product`
@@ -81,4 +88,3 @@ For the ALP frontend:
 - use the `frontend-product` team
 - keep the same named specialists alive across iterations
 - log decisions and carry forward each agent's memory file
-
